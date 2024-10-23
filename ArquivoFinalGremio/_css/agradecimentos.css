@@ -1,0 +1,27 @@
+.principal1{
+    height: 95vh;
+    background-color: #D5D3CA;
+}
+
+#suporte{
+    height: 120vh;
+    background-color: #D5D3CA;
+}
+
+.elementosAction{
+    padding-top: 11%;
+    text-align: center;
+}
+
+.imgAction{
+    border-radius: 50%;
+    height: 35vh;
+}
+
+.firstTitle{
+    margin-top: 4%;
+}
+.tituloAction{
+    font-weight: bolder;
+    font-size: 300%;
+}
